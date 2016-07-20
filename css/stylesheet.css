@@ -1,0 +1,30 @@
+body {
+    background-image: url("space-2.jpg");
+    background-repeat: repeat;
+}
+
+h1 {
+	margin-top: 20px;
+	text-align: center;
+	font-family: sans-serif;
+	color: white;
+}
+
+h1.intro-text {
+	font-size: 20px;
+}
+
+h1.name {
+	font-size: 60px;
+}
+
+ul.links {
+	list-style-image: url("../css/glow-icon.png");
+	margin-top: 20px;
+	vertical-align: middle;
+	list-style-position: inside;
+	text-align: center;
+	font-size: 30px;
+	font-family: sans-serif;
+	color: white;
+}
